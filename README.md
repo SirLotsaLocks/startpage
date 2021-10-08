@@ -1,5 +1,7 @@
 # Startpage [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+# Edit: [late 2021] I reuploaded this from somewhere else to use it as a github site/startpage it's not mine and I obviously don't intend to do anything with it lol
+
 ## The History/Reasons of the project
 
 This is a small project over 2 weeks created for 2 modules for my school:
